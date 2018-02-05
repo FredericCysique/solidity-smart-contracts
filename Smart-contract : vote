@@ -1,0 +1,8 @@
+pragma solidity ^0.4.0;
+contract Vote_nuit{
+    address loup_id;
+    uint256 numero_loup; // numero du loup qui vote 
+    uint256 numero_villageois; //numero du villageaois pour lequel on vote
+    
+    
+}
